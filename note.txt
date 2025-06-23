@@ -1,0 +1,1 @@
+Trong Java, các thao tác liên quan đến I/O (Input/Output) như đọc file, ghi file, mở mạng... có thể gây ra lỗi ngoại lệ (ví dụ file không tồn tại, không có quyền đọc...), và Java bắt buộc bạn phải xử lý những lỗi đó. Nếu không dùng try-catch, code sẽ không compile được.
